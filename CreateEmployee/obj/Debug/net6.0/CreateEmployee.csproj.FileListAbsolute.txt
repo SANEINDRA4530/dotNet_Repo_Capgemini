@@ -1,0 +1,14 @@
+C:\Users\SANKIRAN\source\repos\dotNet_day1\CreateEmployee\obj\Debug\net6.0\CreateEmployee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SANKIRAN\source\repos\dotNet_day1\CreateEmployee\obj\Debug\net6.0\CreateEmployee.AssemblyInfoInputs.cache
+C:\Users\SANKIRAN\source\repos\dotNet_day1\CreateEmployee\obj\Debug\net6.0\CreateEmployee.AssemblyInfo.cs
+C:\Users\SANKIRAN\source\repos\dotNet_day1\CreateEmployee\obj\Debug\net6.0\CreateEmployee.csproj.CoreCompileInputs.cache
+C:\Users\SANKIRAN\source\repos\dotNet_day1\CreateEmployee\bin\Debug\net6.0\CreateEmployee.exe
+C:\Users\SANKIRAN\source\repos\dotNet_day1\CreateEmployee\bin\Debug\net6.0\CreateEmployee.deps.json
+C:\Users\SANKIRAN\source\repos\dotNet_day1\CreateEmployee\bin\Debug\net6.0\CreateEmployee.runtimeconfig.json
+C:\Users\SANKIRAN\source\repos\dotNet_day1\CreateEmployee\bin\Debug\net6.0\CreateEmployee.dll
+C:\Users\SANKIRAN\source\repos\dotNet_day1\CreateEmployee\bin\Debug\net6.0\CreateEmployee.pdb
+C:\Users\SANKIRAN\source\repos\dotNet_day1\CreateEmployee\obj\Debug\net6.0\CreateEmployee.dll
+C:\Users\SANKIRAN\source\repos\dotNet_day1\CreateEmployee\obj\Debug\net6.0\refint\CreateEmployee.dll
+C:\Users\SANKIRAN\source\repos\dotNet_day1\CreateEmployee\obj\Debug\net6.0\CreateEmployee.pdb
+C:\Users\SANKIRAN\source\repos\dotNet_day1\CreateEmployee\obj\Debug\net6.0\CreateEmployee.genruntimeconfig.cache
+C:\Users\SANKIRAN\source\repos\dotNet_day1\CreateEmployee\obj\Debug\net6.0\ref\CreateEmployee.dll
